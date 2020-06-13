@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1ef1d15253053d4f81740b4fbf4d1dc, type: 3}
+  m_Name: Gloves_01
+  m_EditorClassIdentifier: 
+  type: 5
+  stackable: 0
+  icon: {fileID: 21300000, guid: 692766ad5df3a9c47a8192687726bc57, type: 3}
+  modelPrefab: {fileID: 100086, guid: a8257869825434f409d8a403298ecd49, type: 3}
+  data:
+    id: 80
+    name: 
+    buffs: []
+  boneNames:
+  - Guardian-Bip001 L Finger1
+  - Guardian-Bip001 L Finger02
+  - Guardian-Bip001 L Finger11
+  - Guardian-Bip001 L Finger12
+  - Guardian-Bip001 L Hand
+  - Guardian-Bip001 L Thigh
+  - Guardian-Bip001 L Finger0
+  - Guardian-Bip001 L Finger01
+  - Guardian-Bip001 L Forearm
+  - Guardian-Bip001 Spine
+  - Guardian-Bip001 R Forearm
+  - Guardian-Bip001 R Hand
+  - Guardian-Bip001 R Thigh
+  - Guardian-Bip001 R Finger1
+  - Guardian-Bip001 R Finger02
+  - Guardian-Bip001 R Finger11
+  - Guardian-Bip001 R Finger12
+  - Guardian-Bip001 R Finger0
+  - Guardian-Bip001 R Finger01
+  description: 

@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1ef1d15253053d4f81740b4fbf4d1dc, type: 3}
+  m_Name: Chest_02
+  m_EditorClassIdentifier: 
+  type: 1
+  stackable: 0
+  icon: {fileID: 21300000, guid: 0bddcddd1922ac34ba0f0a1e3cf348a6, type: 3}
+  modelPrefab: {fileID: 100084, guid: 7bd0d8916bff0cb4ca6f36b6e49db454, type: 3}
+  data:
+    id: 1
+    name: 
+    buffs: []
+  boneNames:
+  - Guardian-Bip001 L Thigh
+  - Guardian-Bip001 R Thigh
+  - Guardian-Bip001 Spine
+  - Guardian-Bip001 Spine1
+  - Guardian-Bip001
+  - Guardian-Bip001 Head
+  - Guardian-Bip001 Neck
+  - Guardian-Bip001 L Clavicle
+  - Guardian-Bip001 L UpperArm
+  - Guardian-Bip001 L Forearm
+  - Guardian-Bip001 L Hand
+  - Guardian-Bip001 R Clavicle
+  - Guardian-Bip001 R UpperArm
+  - Guardian-Bip001 R Forearm
+  - Guardian-Bip001 R Hand
+  description: 

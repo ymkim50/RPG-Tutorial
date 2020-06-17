@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>227411017682-4euc56bms2j957lt07rkf55kq1fqfv0c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.227411017682-4euc56bms2j957lt07rkf55kq1fqfv0c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAjMhmNv_Mz2c9TPeuPJpPYhyIbPX5ZAeA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>227411017682</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.fastcampus.firebase</string>
+	<key>PROJECT_ID</key>
+	<string>fastcampus-34cef</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fastcampus-34cef.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:227411017682:ios:1f0c61d3ba0af32511920b</string>
+	<key>DATABASE_URL</key>
+	<string>https://fastcampus-34cef.firebaseio.com</string>
+</dict>
+</plist>

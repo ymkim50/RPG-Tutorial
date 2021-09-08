@@ -191,6 +191,7 @@ namespace FastCampus.Characters
                     {
                         IInteractable interactable = target.GetComponent<IInteractable>();
                         interactable.Interact(this.gameObject);
+                        target = null;
                     }
                     else if (target.GetComponent<IDamagable>() != null)
                     {

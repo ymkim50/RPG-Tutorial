@@ -53,6 +53,11 @@ namespace FastCampus.InventorySystem.UIs
 
         public void OnPostUpdate(InventorySlot slot)
         {
+            if (slot == null || slot.slotUI == null)
+            {
+                return;
+            }
+
             slot.slotUI.transform.GetChild(0).GetComponent<Image>().sprite = slot.item.id < 0 ? null : slot.ItemObject.icon;
             slot.slotUI.transform.GetChild(0).GetComponent<Image>().color = slot.item.id < 0 ? new Color(1, 1, 1, 0) : new Color(1, 1, 1, 1);
             slot.slotUI.GetComponentInChildren<TextMeshProUGUI>().text = slot.item.id < 0 ? string.Empty : (slot.amount == 1 ? string.Empty : slot.amount.ToString("n0"));

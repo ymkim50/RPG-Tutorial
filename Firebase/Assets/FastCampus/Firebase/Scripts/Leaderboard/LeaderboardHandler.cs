@@ -1,6 +1,5 @@
 ﻿using Firebase;
 using Firebase.Database;
-using Firebase.Unity.Editor;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -8,7 +7,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using TMPro;
 using UnityEngine;
-using UnityEngine.SocialPlatforms.Impl;
+using Firebase.Extensions;
 
 namespace FastCampus.Firebase.Leaderboard
 {
@@ -207,10 +206,10 @@ namespace FastCampus.Firebase.Leaderboard
 
             FirebaseApp app = FirebaseApp.DefaultInstance;
 
-            if (app.Options.DatabaseUrl != null)
-            {
-                app.SetEditorDatabaseUrl(app.Options.DatabaseUrl);
-            }
+            //if (app.Options.DatabaseUrl != null)
+            //{
+            //    app.SetEditorDatabaseUrl(app.Options.DatabaseUrl);
+            //}
 
             databaseRef = FirebaseDatabase.DefaultInstance.RootReference;
 

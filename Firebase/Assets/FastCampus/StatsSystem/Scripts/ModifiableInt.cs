@@ -1,9 +1,7 @@
-﻿using UnityEngine;
-using System.Collections;
+﻿using FastCampus.Core;
 using System;
-using System.Windows.Markup;
-using Boo.Lang;
-using FastCampus.Core;
+using System.Collections.Generic;
+using UnityEngine;
 
 [Serializable]
 public class ModifiableInt

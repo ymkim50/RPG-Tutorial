@@ -11,5 +11,5 @@
  - 다운로드 사용자는 다음의 URL에서 다운로드 받으시기 바랍니다:
  https://drive.google.com/file/d/1brQMWXXhFtLKfLQlCIT_ecRk-Aygmion/view?usp=sharing
  
- - 강의에 사용된 Firebase의 서버 설정은 개인계정이므로, Firebase 강의 초반에 있는 서버생성의 단계를 따라
-   개인 서버를 생성하여 설정하시기 바랍니다.
+ - 강의에 사용된 Firebase의 서버 설정은 개인계정이므로 비활성화 되었습니다.
+ - Firebase 강의 초반에 있는 서버생성의 단계를 따라 개인 서버를 생성하여 설정하시기 바랍니다.

@@ -7,7 +7,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using TMPro;
 using UnityEngine;
-using Firebase.Extensions;
 
 namespace FastCampus.Firebase.Leaderboard
 {

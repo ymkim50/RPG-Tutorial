@@ -1,10 +1,5 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using UnityEditor;
 using UnityEngine;
-using UnityEditor;
-using UnityEditor.Experimental.TerrainAPI;
-using System.Reflection.Emit;
-using FastCampus.Cameras;
 
 namespace FastCampus.Cameras
 {

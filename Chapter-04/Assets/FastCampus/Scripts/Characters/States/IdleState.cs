@@ -1,10 +1,4 @@
 ﻿using FastCampus.Characters;
-using System.Collections;
-using System.Collections.Generic;
-using System.Runtime.CompilerServices;
-using System.Security.Cryptography;
-using UnityEditor.Experimental.TerrainAPI;
-using UnityEditorInternal;
 using UnityEngine;
 
 namespace FastCampus.AI

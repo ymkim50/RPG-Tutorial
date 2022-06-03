@@ -1,9 +1,5 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using UnityEditor;
 using UnityEngine;
-using UnityEditor;
-using UnityEditor.Experimental.TerrainAPI;
-using System.Reflection.Emit;
 
 namespace FastCampus.Cameras
 {
@@ -15,9 +11,6 @@ namespace FastCampus.Cameras
         #endregion
 
         #region Main Methods
-        //private void OnEnable()
-        //{
-        //}
 
         public override void OnInspectorGUI()
         {

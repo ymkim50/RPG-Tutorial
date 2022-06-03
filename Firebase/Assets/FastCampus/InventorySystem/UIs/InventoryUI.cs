@@ -85,6 +85,7 @@ namespace FastCampus.InventorySystem.UIs
         public void OnEnter(GameObject go)
         {
             MouseData.slotHoveredOver = go;
+            MouseData.interfaceMouseIsOver = GetComponentInParent<InventoryUI>();
         }
 
         public void OnExit(GameObject go)

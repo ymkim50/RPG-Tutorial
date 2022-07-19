@@ -17,7 +17,7 @@ MonoBehaviour:
     type: 1
     targetId: 1
     count: 0
-    completedCount: 1
+    completedCount: 2
     rewardExp: 10
     rewardGold: 10
     rewardItemId: 10
